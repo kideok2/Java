@@ -90,7 +90,7 @@ public class TestFrame extends JFrame{
       
       Object[] row3= {3, "원숭이", "상도동"};
       model.addRow(row3);
-      
+      System.out.println("왜 안돼");
    }
    
    
