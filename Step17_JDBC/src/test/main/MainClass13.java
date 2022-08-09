@@ -5,9 +5,9 @@ import test.dto.MemberDto;
 
 public class MainClass13 {
 	public static void main(String[] args) {
-		int num=1;
-		String name="햄버거";
-		String addr="맥도날드";
+		int num=2;
+		String name="덕기";
+		String addr="남양주";
 		/*
 		 * 	위의 회원 정보를 MemberDao 객체를 이용해서 DB에 저장하고 
 		 * 	성공이면 "회원정보를 추가 했습니다.

@@ -12,8 +12,8 @@ public class MainClass14 {
 		 *  를 콘솔창에 출력하는 code를 작성해 보세요.
 		 * */
 		int num = 26;
-		String name = "커피";
-		String addr = "스타벅스";
+		String name = "coffee";
+		String addr = "starbucks";
 		
 		//수정할 회원의 정보를 MemberDto 객체에 담고 
 		MemberDto dto = new MemberDto(num, name, addr);

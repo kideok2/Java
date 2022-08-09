@@ -125,7 +125,6 @@ public class CalcFrame extends JFrame implements ActionListener{
       }catch(NumberFormatException nfe) {
          JOptionPane.showMessageDialog(this, "숫자 형식으로 입력하세요");
       }
-      
    }
 }   
 
